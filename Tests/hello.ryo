@@ -1,0 +1,15 @@
+fn main(int age) => int {
+    val name:string = "Unity";
+    val name <= "TheCoder";
+    val num:string = 5+5;
+    !print(name);
+    print("FeA");
+    if(name==num) -then 
+      print("name");
+    -end
+    return 0;
+}
+
+//  function call
+
+>main(99);
